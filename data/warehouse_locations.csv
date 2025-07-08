@@ -1,0 +1,4 @@
+WarehouseID,City,Latitude,Longitude,CapacityTons
+W1,Delhi,28.6139,77.2090,500
+W2,Bangalore,12.9716,77.5946,300
+W3,Mumbai,19.0760,72.8777,400

@@ -1,0 +1,4 @@
+StoreID,ProductID,RequestedQty,RequestDate,Status
+101,P1,200,2025-06-10,Pending
+102,P2,150,2025-06-11,Approved
+103,P1,300,2025-06-12,Pending

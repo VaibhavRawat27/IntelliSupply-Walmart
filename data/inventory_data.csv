@@ -1,0 +1,7 @@
+StoreID,ProductID,ProductName,CurrentStock
+101,P1,Sugar,450
+102,P1,Sugar,200
+103,P1,Sugar,300
+101,P2,Rice,350
+102,P2,Rice,500
+103,P2,Rice,150
